@@ -19,7 +19,7 @@
    <music>
       <facsimile xml:id="frlnm0p2">
          <surface xml:id="sip3urm1">
-             <graphic xml:id="ge1za221" target="./testproj.jpg" width="0" height="0"/>
+             <graphic xml:id="ge1za221" target="testproj.png" width="100" height="100"/>
          </surface>
       </facsimile>
       <body>

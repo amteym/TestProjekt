@@ -17,6 +17,11 @@
       </fileDesc>
    </meiHead>
    <music>
+           <facsimile xml:id="f1dcruv2">
+         <surface xml:id="sdt34dz1">
+            <graphic xml:id="gv86p9r1" target="testproj.jpg" width="100" height="100"/>
+         </surface>
+      </facsimile>
       <body>
          <mdiv>
             <score>

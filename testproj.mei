@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Untitled score</title>
-            <title type="subordinate">Subtitle</title>
+            <title type="subordinate">subtitle</title>
             <respStmt>
                <persName role="composer">Composer / arranger</persName>
             </respStmt>
@@ -86,6 +86,9 @@
                      <tie xml:id="mscore-LF9jX7V1UmJ_dk7Pu9aRA0C" startid="#mscore-a8Bqxg8g17D_LlxT6jva7PD" endid="#mscore-n1j7S9GGnuN_yyMrfNbbmHL" />
                   </measure>
                   <measure xml:id="mscore-Um7PutpBvTH_jWqL5uj.-WD" n="3">
+                     <annot xml:id="at0srx1" plist="#mscore-6SxngZGQYHP_WNIXcHWKUIM" type="score">Super Bindebogen</annot>
+                     <annot xml:id="at3h7ud" plist="#mscore-6SxngZGQYHP_WNIXcHWKUIM" type="score"/>
+                     <annot xml:id="abf4jfr2" plist="#mscore-6SxngZGQYHP_WNIXcHWKUIM" type="score"/>
                      <staff xml:id="m3s1" n="1">
                         <layer xml:id="m3s1l1" n="1">
                            <note xml:id="mscore-n1j7S9GGnuN_yyMrfNbbmHL" dur="8" pname="a" oct="4" />
